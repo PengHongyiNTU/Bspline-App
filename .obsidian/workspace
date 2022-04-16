@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ec9b50c3a6cedee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90fe808a3f39abc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d27cd9b799004f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f9df485df24f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ecab25ba217a88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72c6d865fa28326e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87688342c9d71078",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf073ccb9c171e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "201dbb9900357cce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90fe808a3f39abc1",
+  "lastOpenFiles": [
+    "README.md",
+    "assignment1-2022.pdf"
+  ]
+}
